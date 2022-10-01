@@ -40,4 +40,7 @@
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="60" height="60"/> 
   </a> 
+  <a href="https://www.autohotkey.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_autohotkey.svg" alt="autohotkey" width="60" height="60"/> 
+  </a> 
 </p>
