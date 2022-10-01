@@ -2,14 +2,24 @@
 <h3 align="center">I like music, video-games, computer programming and visual media.</h3>
 <h2 align="center"><b>I live for where they intersect.</b></h2>
 
-<h3 align="left">What I make:</h3>
-<h4 alight="center">Visuals<h4>
-<img src="https://github.com/20milliliter/20milliliter/blob/main/media/Signs%20of%20Life.gif" alt="signsoflife" width="300" height="300"/>
-<img src="https://github.com/20milliliter/20milliliter/blob/main/media/infection.gif" alt="infection" width="300" height="300"/>
-<img src="https://github.com/20milliliter/20milliliter/blob/main/media/thering.gif" alt="thering" width="300" height="300"/>
+<h2 align="left">What I make:</h2>
+<h3 align="center">Visuals<h3>
+<p align="center">
+  <img src="https://github.com/20milliliter/20milliliter/blob/main/media/Signs%20of%20Life.gif" alt="signsoflife" width="300" height="300"/>
+  <img src="https://github.com/20milliliter/20milliliter/blob/main/media/infection.gif" alt="infection" width="300" height="300"/>
+  <img src="https://github.com/20milliliter/20milliliter/blob/main/media/thering.gif" alt="thering" width="300" height="300"/>
+</p>
 
-<h3 align="left">What I use:</h3>
-<p align="left"> 
+<h3 align="center">Music<h3>
+
+<h3 align="center">Videos<h3>
+
+<h3 align="center">Lightshows<h3>
+
+<h3 align="center">Tools<h3>
+
+<h2 align="left">What I use:</h2>
+<p align="center">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="80" height="80"/> 
   </a> 
