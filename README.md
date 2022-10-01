@@ -2,6 +2,12 @@
 <h3 align="center">I like music, video-games, computer programming and visual media.</h3>
 <h2 align="center"><b>I live for where they intersect.</b></h2>
 
+<h3 align="left">What I make:</h3>
+<h4 alight="center">Visuals<h4>
+<img src="https://github.com/20milliliter/20milliliter/blob/main/media/Signs%20of%20Life.gif" alt="signsoflife" width="200" height="200"/>
+<img src="https://github.com/20milliliter/20milliliter/blob/main/media/infection.gif" alt="infection" width="200" height="200"/>
+<img src="https://github.com/20milliliter/20milliliter/blob/main/media/thering.gif" alt="thering" width="200" height="200"/>
+
 <h3 align="left">What I use:</h3>
 <p align="left"> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
