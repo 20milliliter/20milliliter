@@ -1,5 +1,6 @@
-<h1 align="center">I'm 20ml</h1>
-<h3 align="center">I like music, video-games, computer programming and visual media. I live for where they intersect.</h3>
+<h1 align="center">I'm 20mL</h1>
+<h3 align="center">I like music, video-games, computer programming and visual media.</h3>
+<h2 align="center"><b>I live for where they intersect.</b></h2>
 
 <h3 align="left">What I use:</h3>
 <p align="left"> 
