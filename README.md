@@ -12,9 +12,9 @@
   </a>
   <a href="https://www.adobe.com/products/premiere" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/rdimascio/icons/blob/master/icons/color/premierepro.svg" alt="premierepro" width="60" height="60"/> 
-  </a> 
+  </a>
   <a href="https://www.ableton.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/simple-icons/simple-icons/blob/master/icons/abletonlive.svg" alt="ableton" width="60" height="60"/> 
+    <img src="https://user-images.githubusercontent.com/107726700/197351477-af299be2-0aa7-4780-b158-0c1de2495734.svg" alt="ableton" width="60" height="60"/> 
   </a>
   <a href="https://derivative.ca/" target="_blank" rel="noreferrer"> 
     <img src="https://scontent-atl3-1.xx.fbcdn.net/v/t1.6435-1/84137372_10157964596662579_4315636001478279168_n.png?stp=dst-png_p148x148&_nc_cat=110&ccb=1-7&_nc_sid=1eb0c7&_nc_ohc=IICOJJYiTcIAX-w1ums&_nc_ht=scontent-atl3-1.xx&oh=00_AT9Q8SBJebHKOuDTNbH_AbvJ735pYA2WRD9PQRtoaXbxaQ&oe=635E1A0C" alt="touchdesigner" width="60" height="60"/> 
