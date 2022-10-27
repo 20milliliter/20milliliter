@@ -2,27 +2,6 @@
 <h3 align="center">I like music, video-games, computer programming and visual media.</h3>
 <h3 align="center">I live for where they intersect.</h3>
 
-<h2 align="left">What I make:</h2>
-<h3 align="center">Visuals<h3>
-<p align="center">
-  <img src="https://github.com/20milliliter/20milliliter/blob/main/media/Signs%20of%20Life.gif" alt="signsoflife" width="250" height="250"/>
-  <img src="https://github.com/20milliliter/20milliliter/blob/main/media/infection.gif" alt="infection" width="250" height="250"/>
-  <img src="https://github.com/20milliliter/20milliliter/blob/main/media/thering.gif" alt="thering" width="250" height="250"/>
-</p>
-
-<h3 align="center">Lightshows<h3>
-<p align="center">
-  <img src="https://github.com/20milliliter/20milliliter/blob/main/media/show1.gif" alt="show1" width="400" height="275"/>
-  <img src="https://github.com/20milliliter/20milliliter/blob/main/media/show2.gif" alt="show2" width="400" height="275"/>
-</p>
-<h3 align="center">Tools<h3>
-<p align="center">
-<img src="https://github.com/20milliliter/20milliliter/blob/main/media/vjsoftware.gif" alt="vjsoft" width="700" height="400"/>
-</p>
-<p align="center">
-<img src="https://github.com/20milliliter/20milliliter/blob/main/media/cardconstructor.gif" alt="cardconstructor" width="800" height="250"/>
-</p>
-
 <h2 align="left">What I use:</h2>
 <p align="center">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
@@ -64,4 +43,25 @@
   <a href="https://www.autohotkey.com/" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_autohotkey.svg" alt="autohotkey" width="60" height="60"/> 
   </a> 
+</p>
+
+<h2 align="left">What I make:</h2>
+<h3 align="center">Visuals<h3>
+<p align="center">
+  <img src="https://github.com/20milliliter/20milliliter/blob/main/media/Signs%20of%20Life.gif" alt="signsoflife" width="250" height="250"/>
+  <img src="https://github.com/20milliliter/20milliliter/blob/main/media/infection.gif" alt="infection" width="250" height="250"/>
+  <img src="https://github.com/20milliliter/20milliliter/blob/main/media/thering.gif" alt="thering" width="250" height="250"/>
+</p>
+
+<h3 align="center">Lightshows<h3>
+<p align="center">
+  <img src="https://github.com/20milliliter/20milliliter/blob/main/media/show1.gif" alt="show1" width="400" height="275"/>
+  <img src="https://github.com/20milliliter/20milliliter/blob/main/media/show2.gif" alt="show2" width="400" height="275"/>
+</p>
+<h3 align="center">Tools<h3>
+<p align="center">
+<img src="https://github.com/20milliliter/20milliliter/blob/main/media/vjsoftware.gif" alt="vjsoft" width="700" height="400"/>
+</p>
+<p align="center">
+<img src="https://github.com/20milliliter/20milliliter/blob/main/media/cardconstructor.gif" alt="cardconstructor" width="800" height="250"/>
 </p>
