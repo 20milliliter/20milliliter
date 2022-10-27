@@ -16,10 +16,12 @@
 
 <h3 align="center">Lightshows<h3>
 <p align="center">
-  <img src="https://github.com/20milliliter/20milliliter/blob/main/media/show1.gif" alt="show1" width="600" height="350"/>
-  <img src="https://github.com/20milliliter/20milliliter/blob/main/media/show2.gif" alt="show2" width="600" height="350"/>
+  <img src="https://github.com/20milliliter/20milliliter/blob/main/media/show1.gif" alt="show1" width="500" height="275"/>
+  <img src="https://github.com/20milliliter/20milliliter/blob/main/media/show2.gif" alt="show2" width="500" height="275"/>
 </p>
 <h3 align="center">Tools<h3>
+<img src="https://github.com/20milliliter/20milliliter/blob/more-media/media/vjsoftware.gif" alt="show1" width="1071" height="600"/>
+<img src="https://github.com/20milliliter/20milliliter/blob/main/media/show2.gif" alt="show2" width="500" height="275"/>
 
 <h2 align="left">What I use:</h2>
 <p align="center">
