@@ -63,5 +63,5 @@
 <img src="https://github.com/20milliliter/20milliliter/blob/main/media/vjsoftware.gif" alt="vjsoft" width="700" height="400"/>
 </p>
 <p align="center">
-<img src="https://github.com/20milliliter/20milliliter/blob/main/media/cardconstructor.gif" alt="cardconstructor" width="875" height="250"/>
+<img src="https://github.com/20milliliter/20milliliter/blob/main/media/cardconstructor.gif" alt="cardconstructor" width="875" height="300"/>
 </p>
