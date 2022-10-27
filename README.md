@@ -30,39 +30,42 @@
 <h2 align="left">What I use:</h2>
 <p align="center">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="80" height="80"/> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> 
   </a> 
   <a href="https://www.adobe.com/products/aftereffects" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/detain/svg-logos/blob/master/svg/after-effects-2019.svg" alt="aftereffects" width="80" height="80"/> 
+    <img src="https://github.com/detain/svg-logos/blob/master/svg/after-effects-2019.svg" alt="aftereffects" width="60" height="60"/> 
   </a>
   <a href="https://www.adobe.com/products/premiere" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/rdimascio/icons/blob/master/icons/color/premierepro.svg" alt="premierepro" width="80" height="80"/> 
-  </a> 
+    <img src="https://github.com/rdimascio/icons/blob/master/icons/color/premierepro.svg" alt="premierepro" width="60" height="60"/> 
+  </a>
   <a href="https://www.ableton.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/simple-icons/simple-icons/blob/master/icons/abletonlive.svg" alt="ableton" width="80" height="80"/> 
+    <img src="https://user-images.githubusercontent.com/107726700/197351477-af299be2-0aa7-4780-b158-0c1de2495734.svg" alt="ableton" width="60" height="60"/> 
   </a>
   <a href="https://derivative.ca/" target="_blank" rel="noreferrer"> 
-    <img src="https://scontent-atl3-1.xx.fbcdn.net/v/t1.6435-1/84137372_10157964596662579_4315636001478279168_n.png?stp=dst-png_p148x148&_nc_cat=110&ccb=1-7&_nc_sid=1eb0c7&_nc_ohc=IICOJJYiTcIAX-w1ums&_nc_ht=scontent-atl3-1.xx&oh=00_AT9Q8SBJebHKOuDTNbH_AbvJ735pYA2WRD9PQRtoaXbxaQ&oe=635E1A0C" alt="touchdesigner" width="80" height="80"/> 
+    <img src="https://scontent-atl3-1.xx.fbcdn.net/v/t1.6435-1/84137372_10157964596662579_4315636001478279168_n.png?stp=dst-png_p148x148&_nc_cat=110&ccb=1-7&_nc_sid=1eb0c7&_nc_ohc=IICOJJYiTcIAX-w1ums&_nc_ht=scontent-atl3-1.xx&oh=00_AT9Q8SBJebHKOuDTNbH_AbvJ735pYA2WRD9PQRtoaXbxaQ&oe=635E1A0C" alt="touchdesigner" width="60" height="60"/> 
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="80" height="80"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> 
   </a> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="80" height="80"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/> 
   </a> 
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="80" height="80"/> 
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="60" height="60"/> 
   </a>
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="80" height="80"/> 
+    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="60" height="60"/> 
   </a>
   <a href="https://godotengine.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/godotengine/godotengine-icon.svg" alt="godot" width="80" height="80"/> 
+    <img src="https://www.vectorlogo.zone/logos/godotengine/godotengine-icon.svg" alt="godot" width="60" height="60"/> 
   </a>
   <a href="https://obsproject.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/detain/svg-logos/blob/master/svg/obs-2.svg" alt="openbroadcastersoftware" width="80" height="80"/> 
+    <img src="https://github.com/detain/svg-logos/blob/master/svg/obs-2.svg" alt="openbroadcastersoftware" width="60" height="60"/> 
   </a> 
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="80" height="80"/> 
+    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="60" height="60"/> 
+  </a> 
+  <a href="https://www.autohotkey.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_autohotkey.svg" alt="autohotkey" width="60" height="60"/> 
   </a> 
 </p>
