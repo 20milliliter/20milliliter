@@ -6,8 +6,8 @@
 <h3 align="center">Visuals<h3>
 <p align="center">
   <img src="https://github.com/20milliliter/20milliliter/blob/main/media/Signs%20of%20Life.gif" alt="signsoflife" width="250" height="250"/>
-  <img src="https://github.com/20milliliter/20milliliter/blob/main/media/infection.gif" alt="infection" width="250" height="250"/>
-  <img src="https://github.com/20milliliter/20milliliter/blob/main/media/thering.gif" alt="thering" width="250" height="250"/>
+  <img src="https://github.com/20milliliter/20milliliter/blob/main/media/infection.gif" alt="infection" width="1300" height="700"/>
+  <img src="https://github.com/20milliliter/20milliliter/blob/main/media/thering.gif" alt="thering" width="1300" height="700"/>
 </p>
 
 <h3 align="center">Music<h3>
@@ -15,7 +15,10 @@
 <h3 align="center">Videos<h3>
 
 <h3 align="center">Lightshows<h3>
-
+<p align="center">
+  <img src="https://github.com/20milliliter/20milliliter/blob/main/media/show1.gif" alt="show1" width="250" height="250"/>
+  <img src="https://github.com/20milliliter/20milliliter/blob/main/media/show2.gif" alt="show2" width="250" height="250"/>
+</p>
 <h3 align="center">Tools<h3>
 
 <h2 align="left">What I use:</h2>
