@@ -20,8 +20,12 @@
   <img src="https://github.com/20milliliter/20milliliter/blob/main/media/show2.gif" alt="show2" width="500" height="275"/>
 </p>
 <h3 align="center">Tools<h3>
-<img src="https://github.com/20milliliter/20milliliter/blob/more-media/media/vjsoftware.gif" alt="show1" width="1071" height="600"/>
-<img src="https://github.com/20milliliter/20milliliter/blob/main/media/show2.gif" alt="show2" width="500" height="275"/>
+<p align="center">
+<img src="https://github.com/20milliliter/20milliliter/blob/more-media/media/vjsoftware.gif" alt="show1" width="700" height="400"/>
+</p>
+<p align="center">
+<img src="https://github.com/20milliliter/20milliliter/blob/more-media/media/cardconstructor.gif" alt="show2" width="900" height="300"/>
+</p>
 
 <h2 align="left">What I use:</h2>
 <p align="center">
