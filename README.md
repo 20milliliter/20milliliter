@@ -21,10 +21,10 @@
 </p>
 <h3 align="center">Tools<h3>
 <p align="center">
-<img src="https://github.com/20milliliter/20milliliter/blob/more-media/media/vjsoftware.gif" alt="show1" width="700" height="400"/>
+<img src="https://github.com/20milliliter/20milliliter/blob/more-media/media/vjsoftware.gif" alt="vjsoft" width="700" height="400"/>
 </p>
 <p align="center">
-<img src="https://github.com/20milliliter/20milliliter/blob/more-media/media/cardconstructor.gif" alt="show2" width="900" height="300"/>
+<img src="https://github.com/20milliliter/20milliliter/blob/more-media/media/cardconstructor.gif" alt="cardconstructor" width="800" height="250"/>
 </p>
 
 <h2 align="left">What I use:</h2>
