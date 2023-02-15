@@ -65,3 +65,8 @@
 <p align="center">
 <img src="https://github.com/20milliliter/20milliliter/blob/main/media/cardconstructor.gif" alt="cardconstructor" width="875" height="300"/>
 </p>
+
+<h2 align="left">Stats:</h2>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=20milliliter&show_icons=true&theme=dark" alt="cardconstructor"/>
+</p>
