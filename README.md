@@ -4,47 +4,21 @@
 
 <h2 align="left">What I use:</h2>
 <p align="center">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> 
-  </a> 
-  <a href="https://www.adobe.com/products/aftereffects" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/detain/svg-logos/blob/master/svg/after-effects-2019.svg" alt="aftereffects" width="60" height="60"/> 
-  </a>
-  <a href="https://www.adobe.com/products/premiere" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/rdimascio/icons/blob/master/icons/color/premierepro.svg" alt="premierepro" width="60" height="60"/> 
-  </a>
-  <a href="https://www.ableton.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://user-images.githubusercontent.com/107726700/197351477-af299be2-0aa7-4780-b158-0c1de2495734.svg" alt="ableton" width="60" height="60"/> 
-  </a>
-  <a href="https://derivative.ca/" target="_blank" rel="noreferrer"> 
-    <img src="https://scottallen.ws/wp-content/uploads/2020/03/9269_normal_1500082919_Icon.jpg" alt="touchdesigner" width="60" height="60"/> 
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/> 
-  </a> 
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="60" height="60"/> 
-  </a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="60" height="60"/> 
-  </a>
-  <a href="https://godotengine.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/godotengine/godotengine-icon.svg" alt="godot" width="60" height="60"/> 
-  </a>
-  <a href="https://obsproject.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/detain/svg-logos/blob/master/svg/obs-2.svg" alt="openbroadcastersoftware" width="60" height="60"/> 
-  </a> 
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="60" height="60"/> 
-  </a> 
-  <a href="https://www.autohotkey.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_autohotkey.svg" alt="autohotkey" width="60" height="60"/> 
-  </a> 
+  <img alt="git" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
+  <img alt="after effects" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" />
+  <img alt="premiere pro" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" />
+  <img alt="open broadcast software" width="60" height="60" src="https://github.com/detain/svg-logos/blob/master/svg/obs-2.svg" />
+  <img alt="blender" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
+  <img alt="godot" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" />
+  <img alt="unity" width="60" height="60" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" />
+  <img alt="ableton" width="60" height="60" src="https://user-images.githubusercontent.com/107726700/197351477-af299be2-0aa7-4780-b158-0c1de2495734.svg" />
+  <img alt="touchdesigner" width="60" height="60" src="https://scottallen.ws/wp-content/uploads/2020/03/9269_normal_1500082919_Icon.jpg" />
+  <img alt="python" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img alt="csharp" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
+  <img alt="markdown" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
+  <img alt="arduino" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
 </p>
-
+  
 <h2 align="left">What I make:</h2>
 <h3 align="center">Visuals<h3>
 <p align="center">
