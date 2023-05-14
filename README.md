@@ -7,7 +7,7 @@
   <img alt="git" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
   <img alt="after effects" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" />
   <img alt="premiere pro" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" />
-  <img alt="open broadcast software" width="60" height="60" src="https://github.com/detain/svg-logos/blob/master/svg/obs-2.svg" />
+  <img alt="open broadcast software" width="60" height="60" src="https://github.com/detain/svg-logos/blob/master/svg/o/obs-2.svg" />
   <img alt="blender" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
   <img alt="godot" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" />
   <img alt="unity" width="60" height="60" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" />
