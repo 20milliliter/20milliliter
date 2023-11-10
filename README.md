@@ -1,9 +1,18 @@
-<h1 align="center">I'm 20ml</h1>
-<h3 align="center">I like music, video-games, computer programming, and visual media.</h3>
-<h3 align="center">I live for where they intersect.</h3>
+### Who am I?
 
-<h2 align="left">What I use:</h2>
-<p align="center">
+Hey! I'm 20ml. I like music, video-games, computer programming, and visual media. I live for where they intersect.
+
+Github is (reasonably) not well suited for displaying media. [Visit my website](https://20ml.live) for a better look at that.
+
+---
+
+### What do I make?
+Visuals, Lightshows, Tools, and Games.
+
+---
+
+### What do I use?
+<p>
   <img alt="git" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
   <img alt="after effects" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" />
   <img alt="premiere pro" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" />
@@ -16,12 +25,9 @@
   <img alt="python" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img alt="csharp" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
   <img alt="markdown" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
-  <img alt="arduino" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
 </p>
-  
-<h2 align="left">What I make:</h2>
-<h3 align="Center">Visuals      Lightshows      Tools      Games</h3>
-<h2 align="left">Stats:</h2>
-<p align="center">
+
+---
+
+### Stats
 <img src="https://github-readme-stats.vercel.app/api?username=20milliliter&show_icons=true&theme=dark" alt="cardconstructor"/>
-</p>
