@@ -18,6 +18,7 @@ Visuals, Lightshows, Tools, and Games.
   <img alt="premiere pro" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" />
   <img alt="open broadcast software" width="60" height="60" src="https://github.com/detain/svg-logos/blob/master/svg/o/obs-2.svg" />
   <img alt="blender" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
+  <img alt="substancepainter" width="60" height="60" src="https://github.com/detain/svg-logos/blob/master/svg/s/substance-painter.svg" />
   <img alt="godot" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" />
   <img alt="unity" width="60" height="60" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" />
   <img alt="ableton" width="60" height="60" src="https://user-images.githubusercontent.com/107726700/197351477-af299be2-0aa7-4780-b158-0c1de2495734.svg" />
