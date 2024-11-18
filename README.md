@@ -1,8 +1,9 @@
 ### Who am I?
 
-Hey! I'm 20ml. I like music, video-games, computer programming, and visual media. I live for where they intersect.
+Hi! I'm "Millie", and I like programming, video-games, music, and visual media. I live for where they intersect.
 
-Github is (reasonably) not well suited for displaying media. [Visit my website](https://20ml.live) for a better look at that.
+My primary portfolio is available on [my website](https://20ml.live), as Github is (reasonably) not well suited for displaying such media.
+However, many software projects and my contributions to open-source endeavors are viewable here.
 
 ---
 
