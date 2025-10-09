@@ -18,7 +18,7 @@ Visuals, Lightshows, Tools, and Games.
 ---
 
 ### What am I learning?
-![What I'm learning](https://go-skill-icons.vercel.app/api/icons?i=debian,docker,githubactions,android,raspberrypi,latex,regex,cpp,steam,twitch&perline=13)
+![What I'm learning](https://go-skill-icons.vercel.app/api/icons?i=debian,docker,githubactions,android,raspberrypi,latex,regex,cpp,golang,steam,twitch&perline=13)
 
 ---
 
