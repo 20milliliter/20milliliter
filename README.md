@@ -13,12 +13,12 @@ Visuals, Lightshows, Tools, and Games.
 ---
 
 ### What do I know?
-![What I know](https://go-skill-icons.vercel.app/api/icons?i=git,github,cs,python,lua,json,markdown,godot,blender,touchdesigner,ae,pr,obs,ffmpeg,ableton,arduino,vscode,notepadpp,obsidian,discord&perline=13)
+![What I know](https://go-skill-icons.vercel.app/api/icons?i=git,github,cs,python,lua,json,markdown,svg,godot,blender,touchdesigner,ae,pr,obs,ffmpeg,ableton,arduino,vscode,notepadpp,obsidian,discord&perline=13)
 
 ---
 
 ### What am I learning?
-![What I'm learning](https://go-skill-icons.vercel.app/api/icons?i=cpp,svg,latex,regex,githubactions,docker,android,raspberrypi,steam,twitch&perline=13)
+![What I'm learning](https://go-skill-icons.vercel.app/api/icons?i=debian,docker,githubactions,android,raspberrypi,latex,regex,cpp,steam,twitch&perline=13)
 
 ---
 
